@@ -1,0 +1,13 @@
+name = "synpixel/roblox_classic_faces"
+version = "0.1.0"
+private = true
+
+[target]
+environment = "lune"
+
+[indices]
+default = "https://github.com/pesde-pkg/index"
+
+[engines]
+pesde = "^0.7.2"
+lune = "^0.10.4"
